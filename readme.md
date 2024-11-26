@@ -1,3 +1,5 @@
+## https://german-mendieta.notion.site/Code-Talks-Effective-Go-1497d62b2c3480d8962fcd1b42b8a906?pvs=73
+
 ## Memory Allocation en Slices
 
 •	make(len): Al usar make([]T, len), estás diciendo “quiero un slice con esta longitud exacta”. Go asigna memoria para todos los elementos inmediatamente, incluso si no todos se usan.
